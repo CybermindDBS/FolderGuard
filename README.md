@@ -7,6 +7,6 @@ The Encrypted folders are forever secure and can be retrieved(Decrypted) back by
 Features Directory-wise controls and Multi-threading to make it easier for you to handle multiple added directories simultaneously.
 
 
-Images:
+Images:-
 
 ![image](https://github.com/user-attachments/assets/23da02dd-8040-4f76-bc73-53d6612e8e57)
