@@ -10,3 +10,4 @@ Features Directory-wise controls and Multi-threading to make it easier for you t
 Images:-
 
 ![image](https://github.com/user-attachments/assets/23da02dd-8040-4f76-bc73-53d6612e8e57)
+![image](https://github.com/user-attachments/assets/325fe759-967f-431e-9130-7d5f37bb05ba)
